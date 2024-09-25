@@ -1,6 +1,6 @@
 {
-    "name": "tugas3",
-    "short_name": "tugas3",
+    "name": "your_secret",
+    "short_name": "your_secret",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
